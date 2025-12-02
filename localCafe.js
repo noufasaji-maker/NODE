@@ -6,7 +6,7 @@ let review = {
     comment: customerComment
 };
 
-function printReviewMessage(reviewObject) {
+function printReviewMessage(reviewObject)  {
 
     let upperName = reviewObject.name.toUpperCase();
 

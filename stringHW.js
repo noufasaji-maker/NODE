@@ -5,7 +5,7 @@ let userData = {
     name: fullName,
     message: welcomeMsg,
 
-    displayDetails: function () {
+    displayDetails: function ()  {
 
         console.log(" STRING OPERATIONS OUTPUT ");
 
