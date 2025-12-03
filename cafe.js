@@ -1,9 +1,9 @@
 let customerName = "Smith";   
 let customerComment = "The cafe food was really tasty and the service was excellent!";
 
-let review =  {
+let review =    {
     name: customerName,
-    comment: customerComment
+    comment: customerComment 
 };
 
 function printReviewMessage(reviewObject)   {
